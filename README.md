@@ -1,25 +1,24 @@
-# 👋 Hi, I'm Junaid Shahpal
-
-🚀 **Junior Software Engineer | Full Stack Developer (ASP.NET Core + Angular) | AI Enthusiast**  
-With 2+ years of experience in full-stack development, I specialize in building robust and scalable web applications using **ASP.NET Core, Angular, and SQL Server**. I’ve also deployed cloud solutions on **DigitalOcean** and worked on AI-powered applications.  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Junaid+Shahpal;Full+Stack+Developer;Software+Developer+at+Codonomy;AI+%7C+Cloud+%7C+ASP.NET+Core+%7C+Angular" alt="Typing Animation" />
+</h1>
 
 ---
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaidshapal)  
-📧 **junaidshapal66@gmail.com**  
+## 👨‍💻 About Me
+- 🚀 Junior **Software Engineer** with 2+ years of experience in **ASP.NET Core, Angular, SQL Server, and Cloud**  
+- 💼 Currently working at **Codonomy** as a **Software Developer**  
+- 🌱 Passionate about **AI, Cloud Computing, and Full-Stack Development**  
+- 🌍 Open to collaborations on **AI, Web Apps, and SaaS Projects**
 
 ---
 
 ## 🛠️ Tech Stack
-
 **Languages & Frameworks**  
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 **Frontend & Styling**  
@@ -32,36 +31,34 @@ With 2+ years of experience in full-stack development, I specialize in building 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?logo=dotnet&logoColor=white)
 
 **Deployment & Tools**  
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
-![PuTTY](https://img.shields.io/badge/PuTTY-35495E?logo=putty&logoColor=white)
-![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?logo=filezilla&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ---
 
 ## 💼 Experience
+**Software Developer @ Codonomy** (2025 – Present)  
+- Building cloud-based applications with **ASP.NET Core, Angular, and SQL Server**  
+- Working on scalable solutions with strong focus on **AI integrations** and **cloud deployments**  
+
 **Full Stack Developer @ Lingostry Languages** (01/2024 – 05/2025)  
-- Built a multilingual **language learning platform** with story-based learning, flashcards, and quizzes.  
-- Developed **ASP.NET Core + SQL Server APIs** with JWT authentication & Excel integration.  
-- Designed **Angular + Bootstrap frontend** with responsive UI/UX.  
-- Implemented **language filtering system** (German, French, etc.).  
-- Deployed APIs & frontend to **DigitalOcean** using FileZilla.  
+- Developed a multilingual **language learning platform** with interactive flashcards and quizzes  
+- Designed and deployed APIs + Frontend to **DigitalOcean**  
+- Implemented **JWT authentication, role-based access, and Excel integration**  
 
 ---
 
 ## 🚀 Projects
-
-🔹 **QuickAppointments** – Role-based appointment system (ASP.NET Core + Angular + Tailwind) with JWT authentication, doctor scheduling, and secure booking.  
-🔹 **Customer Support Web App** – Ticketing system with role-based access (Admin/Customer), issue tracking, and clean UI.  
-🔹 **Bank Transactions Web App** – ASP.NET MVC + jQuery AJAX + Bootstrap for secure real-time transactions.  
-🔹 **DocuWise** – AI-powered document summarization platform using ASP.NET Core + Angular + Flask (with JWT, OAuth, and Tailwind UI).  
+🔹 **QuickAppointments** – Role-based appointment booking system (ASP.NET Core + Angular + Tailwind)  
+🔹 **Customer Support Web App** – Ticketing system with role-based access (Admin/Customer)  
+🔹 **Bank Transactions Web App** – ASP.NET MVC + AJAX + Bootstrap for secure transactions  
+🔹 **DocuWise** – AI-powered document summarization platform (ASP.NET Core + Angular + Flask)  
 
 ---
 
@@ -72,12 +69,17 @@ With 2+ years of experience in full-stack development, I specialize in building 
 
 ---
 
-## 🏆 Certifications
-- Master ASP.NET Core Identity (Udemy)  
-- Angular 19 + ASP.NET Core 9 (Udemy)  
-- SQL Server Data Manipulation & Transactions (Microsoft | Coursera)  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=junaidshapal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-## 💡 Fun Quote
-_"The best way to predict the future is to build it."_ 💻
+## 📜 Certifications
+- ✅ Master ASP.NET Core Identity (Udemy)  
+- ✅ Angular 19 + ASP.NET Core 9 (Udemy)  
+- ✅ SQL Server Transactions (Microsoft | Coursera)  
+
+---
+
+## ✨ Fun Quote
+_"Code is like magic — it turns imagination into reality."_ ⚡
