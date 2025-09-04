@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Junaid+Shahpal;Full+Stack+Developer;Software+Developer+at+Codonomy;AI+%7C+Cloud+%7C+ASP.NET+Core+%7C+Angular" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Junaid+Shahpal;Full+Stack+Developer;Software+Developer+at+Codonomy;Full Stack DEvelopment+%7C+Cloud+%7C+ASP.NET+Core+%7C+Angular" alt="Typing Animation" />
 </h1>
 
 ---
@@ -7,8 +7,8 @@
 ## 👨‍💻 About Me
 - 🚀 Junior **Software Engineer** with 2+ years of experience in **ASP.NET Core, Angular, SQL Server, and Cloud**  
 - 💼 Currently working at **Codonomy** as a **Software Developer**  
-- 🌱 Passionate about **AI, Cloud Computing, and Full-Stack Development**  
-- 🌍 Open to collaborations on **AI, Web Apps, and SaaS Projects**
+- 🌱 Passionate about **Mobile DEvelopment, Cloud Computing, and Full-Stack Development**  
+- 🌍 Open to collaborations on **Web Apps, and SaaS Projects**
 
 ---
 
