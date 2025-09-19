@@ -78,6 +78,11 @@
 
 ---
 
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=junaidshapal&theme=radical&hide_border=false&layout=compact)
+
+---
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=junaidshapal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
