@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🚀 **Software Developer @ Codonomy** — building production-grade web & mobile apps  
+- 🚀 **Junior Software Developer @ Codonomy** — building production-grade web & mobile apps  
 - 💻 Tech focus: **.NET Core (API), ASP.NET MVC, MERN (MongoDB, Express, React, Node), React Native**, **SQL Server**  
 - 🧩 I enjoy designing clean APIs, role-based auth, real-time features (SSE/notifications), and scalable DB schemas  
 - ☁️ Comfortable with **cloud deployments** (DigitalOcean, Nginx, Azure)  
