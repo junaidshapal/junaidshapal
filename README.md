@@ -71,6 +71,9 @@
 - **PopBookings** — *MVC + ASP.NET Core API + Angular + React Native*  
   Scalable, modular architecture with shared contracts, typed clients, and cohesive UI/UX across web and mobile.
 
+- **UnifiedAIPlatform** — *MVC + ASP.NET Core API + React*  
+  Scalable, modular architecture with shared contracts, typed clients, and cohesive UI/UX across web and mobile.
+
 - **QuickAppointments** — *ASP.NET Core + Angular + Tailwind*  
   Role-based appointment booking with slot validation and clean component-driven UI.
 
