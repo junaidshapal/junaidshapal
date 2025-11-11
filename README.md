@@ -90,9 +90,8 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=junaidshapal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+![](https://github-profile-trophy.vercel.app/?username=junaidshapal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📜 Certifications
 - ✅ Master ASP.NET Core Identity (Udemy)  
