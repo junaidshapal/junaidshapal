@@ -54,6 +54,8 @@
 - Building cloud-ready solutions with **ASP.NET Core API**, **ASP.NET MVC**, **Angular**, **React Native**, **SQL Server**  
 - **PopBookings**: enterprise modules in **MVC + ASP.NET Core API + Angular + React Native** (scalable APIs, RBAC, clean architecture)  
 - Owns end-to-end features: DB design → API contracts → UI integration → deployment (Nginx/Docker/DigitalOcean)
+- **UnifiedAIPlatform**: enterprise modules in **MVC + ASP.NET Core API + React** (scalable APIs, RBAC, clean architecture, AI integrations)  
+- Owns end-to-end features: DB design → API contracts → UI integration → deployment (Docker)
 
 **Full Stack Developer — Lingostry Languages** (2024 – 2025)  
 - Multilingual learning platform with interactive stories, quizzes, and flashcards  
