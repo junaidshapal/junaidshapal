@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Junaid+Shahpal;+Junior+Software+Developer+at+Codonomy;Full+Stack+.NET+%26+MERN;ASP.NET+Core+%7C+MVC+%7C+Angular;React+Native+%7C+SQL+Server+%7C+MongoDB" alt="Typing Animation" />
 </h1>
 
-hshsbsbbsbs
 ---
 
 ## 👨‍💻 About Me
