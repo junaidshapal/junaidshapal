@@ -81,6 +81,9 @@
 - **DocuWise** — *ASP.NET Core + Angular + Python (Flask)*  
   AI-powered document summarization, keywords, favorites, and a polished Angular UI.
 
+  - **Phone verification OTP** — *ASP.NET Core + Angular + Python (Flask)*  
+  AI-powered document summarization, keywords, favorites, and a polished Angular UI.
+
 ---
 
 ## 📊 GitHub Stats
