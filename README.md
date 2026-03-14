@@ -84,6 +84,7 @@
 - **PVA deals** — *Nodejs + React + Mongodb*  
   OTP verification platform for virtual numbers of US.
   Serverless Backend with AWS
+  Lambda functions.
 
 ---
 
