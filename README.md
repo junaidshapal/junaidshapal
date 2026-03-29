@@ -10,9 +10,6 @@
 - 🧩 I enjoy designing clean APIs, role-based auth, real-time features (SSE/notifications), and scalable DB schemas  
 - ☁️ Comfortable with **cloud deployments** (DigitalOcean, Nginx, Azure)  
 - 🤝 Open to collaborations on **SaaS**, **enterprise apps**, and **mobile-first products**
-- 
-- 🤝 Open to collaborations on **SaaS**, **enterprise apps**, and **mobile-first products**
-
 ---
 
 ## 🛠️ Tech Stack
