@@ -1,107 +1,103 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Junaid+Shahpal;+Junior+Software+Developer+at+Codonomy;Full+Stack+.NET+%26+MERN;ASP.NET+Core+%7C+MVC+%7C+Angular;React+Native+%7C+SQL+Server+%7C+MongoDB" alt="Typing Animation" />
-</h1>
+<h1 align="center">Junaid Shahpal</h1>
+<p align="center">
+  <em>Junior Software Engineer &nbsp;|&nbsp; Full Stack Developer &nbsp;|&nbsp; Islamabad, Pakistan</em>
+</p>
+
+<p align="center">
+  <a href="mailto:junaidshapal66@gmail.com">junaidshapal66@gmail.com</a> &nbsp;•&nbsp;
+  <a href="https://linkedin.com/in/junaidshapal">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://github.com/junaidshapal">GitHub</a> &nbsp;•&nbsp;
+  <a href="https://junaidshahpal.vercel.app">Portfolio</a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
-- 🚀 **Junior Software Developer @ Codonomy** — building production-grade web & mobile apps  
-- 💻 Tech focus: **.NET Core (API), ASP.NET MVC, MERN (MongoDB, Express, React, Node), React Native**, **SQL Server**  
-- 🧩 I enjoy designing clean APIs, role-based auth, real-time features (SSE/notifications), and scalable DB schemas  
-- ☁️ Comfortable with **cloud deployments** (DigitalOcean, Nginx, Azure)  
-- 🤝 Open to collaborations on **SaaS**, **enterprise apps**, and **mobile-first products**
----
+## About
 
-## 🛠️ Tech Stack
-**Languages & Frameworks**  
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET-MVC-512BD4?logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-
-**Frontend & Styling**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-
-**Databases**  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
-
-**Deployment & Tools**  
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+Full Stack Developer with 2+ years of experience building production-grade web applications using .NET Core, React, Angular, and Node.js. Experienced in RESTful and GraphQL API design, cloud-native architecture, Stripe payment integration, and CI/CD automation. Passionate about clean architecture, scalable systems, and high-performing engineering teams.
 
 ---
 
-## 💼 Experience
-**Software Developer — Codonomy** (2025 – Present)  
-- Building cloud-ready solutions with **ASP.NET Core API**, **ASP.NET MVC**, **Angular**, **React Native**, **SQL Server**  
-- **PopBookings**: enterprise modules in **MVC + ASP.NET Core API + Angular + React Native** (scalable APIs, RBAC, clean architecture)  
-- Owns end-to-end features: DB design → API contracts → UI integration → deployment (Nginx/Docker/DigitalOcean)
-- **UnifiedAIPlatform**: enterprise modules in **MVC + ASP.NET Core API + React** (scalable APIs, RBAC, clean architecture, AI integrations)  
-- Owns end-to-end features: DB design → API contracts → UI integration → deployment (Docker)
+## Tech Stack
 
-**Full Stack Developer — Lingostry Languages** (2024 – 2025)  
-- Multilingual learning platform with interactive stories, quizzes, and flashcards  
-- Implemented **JWT auth**, role-based access, and deployed to **DigitalOcean**
+**Languages**
+`C#` `TypeScript` `JavaScript` `SQL` `HTML5` `CSS3`
 
----
+**Backend**
+`.NET Core 8` `ASP.NET MVC` `Node.js` `GraphQL` `RESTful APIs` `Entity Framework` `AWS Lambda`
 
-## 🚀 Highlight Projects
-- **Taxiologists (Web + Mobile)** — *MERN + React Native*  
-  Real-time ride management (assign/accept/drop), **SSE/notifications**, role-based dashboards, clean REST APIs, and mobile-first UX.
+**Frontend**
+`React` `Angular` `Bootstrap` `Tailwind CSS` `Shadcn UI`
 
-- **Commission Calculation System (Enterprise)** — *ASP.NET Core API + ASP.NET MVC + SQL Server*  
-  Complex business rules, scheduled jobs, audit trails, and secure role-based workflows.
+**Databases**
+`SQL Server` `PostgreSQL` `MySQL` `MongoDB` `Redis`
 
-- **PopBookings** — *MVC + ASP.NET Core API + Angular + React Native*  
-  Scalable, modular architecture with shared contracts, typed clients, and cohesive UI/UX across web and mobile.
+**Cloud & DevOps**
+`AWS (Lambda, S3, API Gateway, CloudWatch, Amplify)` `Azure (App Service, DevOps)` `Vercel` `DigitalOcean` `Docker` `GitHub Actions`
 
-- **UnifiedAIPlatform** — *ASP.NET Core API + React*  
-  Scalable, modular architecture with shared contracts, typed clients, and cohesive UI/UX across web and mobile.
+**Auth & Payments**
+`JWT` `OAuth2` `RBAC` `Stripe` `Payoneer` `Webhook handling`
 
-- **QuickAppointments** — *ASP.NET Core + Angular + Tailwind*  
-  Role-based appointment booking with slot validation and clean component-driven UI.
-
-- **DocuWise** — *ASP.NET Core + Angular + Python (Flask)*  
-  AI-powered document summarization, keywords, favorites, and a polished Angular UI.
-
-- **PVA deals** — *Nodejs + React + Mongodb*  
-  OTP verification platform for virtual numbers of US.
-  Serverless Backend with AWS
-  Lambda functions.
+**Tools**
+`Visual Studio` `VS Code` `Postman` `Swagger` `SSMS` `Git` `ClickUp`
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=junaidshapal&theme=radical&hide_border=false&layout=compact)
+## Experience
+
+**Junior Software Developer — Codonomy** *(Aug 2025 – Present · Islamabad)*
+- Developed full-stack features using .NET Core 8, Angular 17, and React across 3+ enterprise product modules.
+- Designed RESTful and GraphQL APIs integrated with SQL Server, PostgreSQL, and MongoDB.
+- Integrated Stripe payment gateway with webhooks, subscription flows, and zero production downtime.
+- Deployed to Azure App Service, AWS Lambda, and Vercel; managed pipelines via Azure DevOps.
+- Reduced critical API response times by ~25% through query optimisation and Redis caching.
+
+**Full Stack Developer — Lingostry Languages** *(Feb 2025 – Jul 2025 · Remote)*
+- Built ASP.NET Core REST APIs with JWT auth, Excel integration, and personalised content delivery.
+- Developed a language-filtering system supporting German, French, and 2+ additional languages.
+- Engineered personalised flashcard and vocabulary quiz modules, improving UAT engagement metrics.
+- Reduced interface bugs by 40% with a responsive Angular and Bootstrap frontend.
+- Deployed to DigitalOcean; led sprint planning and documentation for a 3-person agile team.
 
 ---
 
-## 🏆 GitHub Trophies
+## Projects
 
-![](https://github-profile-trophy.vercel.app/?username=junaidshapal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+**PVA Deals — Serverless Payment Platform**
+`React` `Node.js` `AWS Lambda` `GraphQL` `MongoDB` `Redis` `Stripe` `Payoneer` `GitHub Actions`
+- Serverless event-driven platform on AWS Lambda with GraphQL APIs via API Gateway.
+- MongoDB and Redis data layer reducing repeated query load by ~60%.
+- CI/CD pipelines with GitHub Actions for zero-downtime deployments.
 
-## 📜 Certifications
-- ✅ Master ASP.NET Core Identity (Udemy)  
-- ✅ Angular 19 + ASP.NET Core 9 (Udemy)  
-- ✅ SQL Server Transactions (Microsoft | Coursera)
+**Unified AI Platform — Multi-Tenant API Gateway**
+`ASP.NET Core 8` `PostgreSQL` `React` `Docker` `Stripe` `JWT` `OpenAI` `Anthropic API`
+- Multi-tenant SaaS platform for AI provider access, billing, and API distribution.
+- Unified OpenAI, Anthropic, and other LLM providers behind a single adapter-pattern gateway.
+- BYOK API key management with AES encryption, per-tenant usage tracking, and quota enforcement.
 
 ---
 
-## ✨ Fun Quote
-_“Code is like magic — it turns imagination into reality.”_ ⚡
+## Education
+
+**BSc Information Engineering Technology**
+National Skills University Islamabad *(Sep 2022 – Sep 2026)*
+
+---
+
+## Certifications
+
+- Master ASP.NET Core Identity — Udemy
+- Angular 19 + ASP.NET Core 9 — Udemy
+- SQL Server Transactions — Microsoft / Coursera
+
+---
+
+## Languages
+
+English — Advanced &nbsp;|&nbsp; Urdu — Native
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidshapal&theme=default&hide_border=true&layout=compact" />
+</p>
