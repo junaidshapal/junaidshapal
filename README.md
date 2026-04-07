@@ -71,7 +71,8 @@
 ## 💼 Experience
 
 **Junior Software Developer — Codonomy** *(Aug 2025 – Present · Islamabad)*
-- Developed and maintained full-stack features using .NET Core 8, Angular 17, and React within cross-functional agile teams, contributing to 3+ enterprise product modules.
+- Developed and maintained full-stack features using .NET Core 8, C#, Angular 17, and React within cross-functional agile teams, contributing to 3+ enterprise product modules.
+- Built backend services in C# and ASP.NET Core for the HoraceMann insurance commission platform, calculating commissions across high-volume transactions with correctness and full traceability.
 - Designed and delivered RESTful and GraphQL APIs using .NET and Node.js, integrated with SQL Server, PostgreSQL, and MongoDB.
 - Integrated Stripe payment gateway including webhooks, subscription flows, and secure transaction handling with zero production downtime incidents.
 - Deployed services to Azure App Service, AWS Lambda, and Vercel; managed sprint tracking and release pipelines via Azure DevOps.
@@ -87,6 +88,13 @@
 ---
 
 ## 🚀 Projects
+
+**HoraceMann — Insurance Commission Backend** &nbsp;|&nbsp; `C#` `ASP.NET Core` `SQL Server` `Azure DevOps`
+- Built backend services in C# and ASP.NET Core to calculate commissions across high-volume insurance transactions with correctness and full traceability.
+- Optimised SQL Server queries and implemented caching patterns to reduce processing time for large commission batches.
+- Integrated with legacy systems via secure APIs and improved audit logging and reporting to support compliance checks.
+- Improved reliability with robust validation, structured error handling, and detailed logs to speed up troubleshooting.
+- Managed project delivery via Azure DevOps — tracking work items, organising sprint boards, and maintaining release pipelines to ensure structured, auditable deployments.
 
 **PVA Deals — Serverless Payment Platform** &nbsp;|&nbsp; `React` `Node.js` `AWS Lambda` `GraphQL` `MongoDB` `Redis` `Stripe` `Payoneer` `GitHub Actions`
 - Architected a serverless, event-driven platform on AWS Lambda with GraphQL APIs via API Gateway, supporting real-time payments through Stripe and Payoneer.
